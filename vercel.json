@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/:id",
+        "destination": "/api/leetcode?id=:id"
+      }
+    ]
+  }
+  
